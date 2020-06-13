@@ -7,4 +7,14 @@ public class TestboboController {
     //치킨은 무슨치킨 머글껀가요 냥냥씨
     //돔도미씨
 
+    public String TestOne(){
+        return "";
+    }
+
+    public String TestTwo(){
+        return "";
+    }
+    public String TestThree(){
+        return "";
+    }
 }
