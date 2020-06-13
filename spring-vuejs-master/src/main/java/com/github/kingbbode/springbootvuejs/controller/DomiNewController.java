@@ -15,4 +15,6 @@ public class DomiNewController {
         int binding = 0;
         return "";
     }
+
+    //잘하셨어요 돔도미 씨앗 확인햇습니다.
 }
