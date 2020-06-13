@@ -1,7 +1,7 @@
 package com.github.kingbbode.springbootvuejs.dto;
 
 public class TestDto {
-
+    //Dto추가
     private String testOne;
     private String name;
     private String age;
