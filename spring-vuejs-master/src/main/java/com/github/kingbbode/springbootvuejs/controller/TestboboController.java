@@ -11,7 +11,7 @@ public class TestboboController {
         //덮어쓰면 맴매데스네
 
         //치킨 모먹지이 ㅇㅅㅇ
-        //펜타하구싶디야아아앙아앙
+        //펜타하구싶디야아아앙아앙ㄴ
         //곰돌짝아
     }
     public String TestOne(){
