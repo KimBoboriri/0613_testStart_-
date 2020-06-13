@@ -35,4 +35,8 @@ public class TodoController {
     public void DongyoungAdd(){
         System.out.println("동동이가 추가");
     }
+
+    public void bobo(){
+         System.out.println("테슷 컨트롤러");
+    }
 }
