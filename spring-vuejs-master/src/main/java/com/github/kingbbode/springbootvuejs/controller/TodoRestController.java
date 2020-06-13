@@ -19,7 +19,8 @@ public class TodoRestController {
                     .id("kingbbode")
                     .img("https://avatars3.githubusercontent.com/u/17121431?v=4")
                     .company("@zuminternet -> @woowabros")
-                    .todoList(Arrays.asList("회사 적응", "개인 플젝 오픈"))
+                    //.todoList(Arrays.asList("회사 적응", "개인 플젝 오픈"))
+                    .todoList(Arrays.asList("곰돌쨕", "끄아아 보보 스트레쭈 ㅠㅠ"))//김보영 20200613 테스트를 위해 변경
                     .build();
         }else if("jojoldu".equals(id)) {
             return TodoResponse.builder()
@@ -30,6 +31,7 @@ public class TodoRestController {
                     .bio("기억보단 기록을..")
                     .build();
         }
-        throw new IllegalArgumentException("하지마세요.");
+        //throw new IllegalArgumentException("하지마세요.");
+        throw new IllegalArgumentException("하면 안대는 건가바아."); //김보영 20200613 테스트를 위해 변경
     }
 }
