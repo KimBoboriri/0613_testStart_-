@@ -1,11 +1,16 @@
 package com.github.kingbbode.springbootvuejs.controller;
 
 import com.github.kingbbode.springbootvuejs.dto.TestDto;
+import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 import java.util.*;
 import java.util.ArrayList;
 
+@RestController
+@RequestMapping("/api/users")
 public class DomiNewController {
     //도미가 변경했다
     //domi는 지웠다
