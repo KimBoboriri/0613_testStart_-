@@ -26,4 +26,13 @@ public class TodoController {
         }
         return "home";
     }
+
+    /*
+     * 담당자: 김동영
+     * 일시 :04:49
+     * 추가
+     */
+    public void DongyoungAdd(){
+        System.out.println("동동이가 추가");
+    }
 }
