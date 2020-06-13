@@ -2,7 +2,7 @@
     <div>
         <md-card md-with-hover>
             <md-card-header>
-                <div class="md-title">개발자들</div>
+                <div class="md-title">개발자들이다(김동영이 변경)</div>
             </md-card-header>
 
             <md-card-content>
